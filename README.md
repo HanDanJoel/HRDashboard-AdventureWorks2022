@@ -86,6 +86,6 @@ The dashboard includes dynamic slicers that are shown/hidden using bookmarks and
 ---
 
 
-## 📌 Note
+## Note
 
 This dashboard uses sample data only (AdventureWorks2022) and is intended for demonstration purposes.
